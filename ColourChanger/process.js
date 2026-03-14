@@ -23,6 +23,23 @@ buttons.forEach( (button) =>{
         }else{
             body.style.backgroundColor = "white"
         }
+        // switch(e.target.innerHTML){
+        //     case "Green":
+        //         body.style.backgroundColor ="green"
+        //         break;
+        //     case "Red":
+        //         body.style.backgroundColor = "red"
+        //         break
+        //     case "Black":
+        //         body.style.backgroundColor = "black"
+        //         break
+        //     case "White":
+        //         body.style.backgroundColor = "white"
+        //         break
+        //     default:
+        //         body.style.backgrounColor = "white"
+        //         break;
+        // }
     })
     
 })
